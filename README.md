@@ -26,7 +26,7 @@ the `git clone` command in and cookiecutter will guide you trough a
 minimal setup:
 
 ```shell
-cookiecutter 4so-web-template
+cookiecutter 4so-web-cookiecutter
 ```
 
 This will create a new project in its own directory and update certain files
