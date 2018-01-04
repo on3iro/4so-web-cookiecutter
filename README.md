@@ -1,3 +1,5 @@
+**Note: This repo has been discontinued in favor of https://github.com/4so-fourseasons/web-cookiecutter**
+
 ![Web](img/web.png)
 
 # ToC
